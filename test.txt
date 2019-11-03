@@ -1,1 +1,2 @@
-this is add comment in readme.txt.
+this is add comment in readme.txt
+Learn to commit and push to repository of github.
